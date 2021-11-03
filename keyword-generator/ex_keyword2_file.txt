@@ -1,0 +1,51 @@
+new york ny
+houston tx
+atlanta ga
+chicago il
+los angeles ca
+philadelphia pa
+dallas tx
+charlotte nc
+orlando fl
+florida
+washington dc
+las vegas nv
+austin tx
+san antonio tx
+california
+boston ma
+phoenix az
+san diego ca
+texas
+new jersey
+denver co
+tampa fl
+seattle wa
+jacksonville fl
+st. louis mo
+miami fl
+memphis tn
+pittsburgh pa
+michigan
+columbus oh
+nashville tn
+richmond va
+cleveland oh
+indianapolis in
+north carolina
+san francisco ca
+baltimore md
+colorado
+massachusetts
+portland or
+raleigh nc
+georgia
+sacramento ca
+detroit mi
+maryland
+cincinnati oh
+ohio
+kansas city mo
+new york
+minneapolis mn
+illinois
